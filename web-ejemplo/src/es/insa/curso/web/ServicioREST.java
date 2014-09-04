@@ -8,7 +8,7 @@ import javax.ws.rs.Path;
 //PERO JAX-RS DE POR SÍ ES SÓLO UNA INTERFACE
 //JERSEY ES UNA VERSIÓN DE JAX-RS
 //PERO SE CONFIGURA CON ANOTACIONES
-//añadido
+//añadido - prueba servidor - commit
 
 //aqui tengo que poner una configuración por defecto
 //para que interprete que esta clase es un servicio
